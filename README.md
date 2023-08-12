@@ -1,10 +1,16 @@
 # coinapp
 
-A new Flutter project.
+A new Flutter project for Coin tossing.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+mainly for learning purposes
+
+#Stateless and Stateful Widgets
+
+Stateless widgets are immutable, meaning that their properties can't change - all values are final.
+
+Stateful widget are mutable, meaning that they can change their properties.
 
 A few resources to get you started if this is your first Flutter project:
 
